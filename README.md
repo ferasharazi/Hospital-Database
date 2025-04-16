@@ -22,7 +22,7 @@ This project is a **hospital database system** designed to efficiently manage an
 - Implemented using **MySQL**
 - **SQL scripts** include:
   - Table creation using DDL
-  - Data insertion (10+ records per table) using DML
+  - Data insertion (10 records per table) using DML
   - Complex query operations for analytics and reporting
 
 ## 📋 Sample Queries
