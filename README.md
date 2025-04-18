@@ -2,7 +2,7 @@
 
 This project is a **hospital database system** designed to efficiently manage and organize key aspects of a healthcare institution, including patient data, admissions, appointments, staff, test results, prescriptions, and insurance details.
 
-## 📌 Features
+## Features
 
 - Manage detailed **patient information**
 - Track **admissions and discharges**
@@ -12,12 +12,12 @@ This project is a **hospital database system** designed to efficiently manage an
 - Manage **medications and prescriptions**
 - Handle **billing and insurance** information
 
-## 🗃️ Database Design
+## Database Design
 
 - **ER Model** and **Relational Schema** designed based on real-world hospital needs.
 - **10 relational tables** with foreign key constraints
 
-## 🛠️ Implementation
+## Implementation
 
 - Implemented using **MySQL**
 - **SQL scripts** include:
@@ -25,7 +25,7 @@ This project is a **hospital database system** designed to efficiently manage an
   - Data insertion (10 records per table) using DML
   - Complex query operations for analytics and reporting
 
-## 📋 Sample Queries
+## Sample Queries
 
 - Patients admitted with COVID-19 in 2020
 - Upcoming appointments and their statuses
