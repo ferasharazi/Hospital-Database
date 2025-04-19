@@ -15,7 +15,7 @@ This project is a **hospital database system** designed to efficiently manage an
 ## Database Design
 
 - **ER Model** and **Relational Schema** designed based on real-world hospital needs.
-- **10 relational tables** with foreign key constraints
+- **10 relational tables** 
 
 ## Implementation
 
