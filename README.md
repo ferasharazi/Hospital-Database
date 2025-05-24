@@ -27,13 +27,13 @@ This project is a **hospital database system** designed to efficiently manage an
 
 ## Sample Queries
 
-- Patients admitted with COVID-19 in 2020
-- Upcoming appointments and their statuses
-- Admissions handled by Dr. Dalal Namnaqani
-- Physicians specialized in neurology
-- Nurses working during holidays
-- Patients diagnosed with cancer
-- Insurance with high coverage limits
-- Medical tests for patients from specific areas
-- Physicians with confirmed appointments on a given date
-- Doctors' contact numbers during holidays
+1. Patients admitted with COVID-19 in 2020  
+2. Upcoming appointments and their statuses  
+3. Admissions handled by Dr. Dalal Namnaqani  
+4. Physicians specialized in neurology  
+5. Nurses working during holidays  
+6. Patients diagnosed with cancer  
+7. Insurance with high coverage limits  
+8. Medical tests for patients from specific areas  
+9. Physicians with confirmed appointments on a given date  
+10. Doctors' contact numbers during holidays  
